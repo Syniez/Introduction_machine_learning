@@ -68,8 +68,8 @@ def Question_5_6():
 def Question_7():
     df4 = pd.read_excel('./df4.xlsx', engine='openpyxl')
     # Question 7
-    x_train = df4.drop('운전', axis=1)
-    y_train = df4['운전']
+    x_train = df4.drop('운전시간', axis=1)
+    y_train = df4['운전시간']
 
     model = LinearRegression()
     model.fit(x_train, y_train)
@@ -101,8 +101,8 @@ def Question_8_9_10():
 
 if __name__ == '__main__':
     Question_1_2()
-    Question_3()
-    Question_4()
-    Question_5_6()
-    Question_7()
-    Question_8_9_10()
+    #Question_3()
+    #Question_4()
+    #Question_5_6()
+    #Question_7()
+    #Question_8_9_10()
