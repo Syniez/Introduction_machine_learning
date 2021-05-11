@@ -1,4 +1,4 @@
-# Introduction_machine_learning
+# Machine_learning
 
 ## 2021_1st semester lecture
 ### tensorflow, scikit-learn, pandas
