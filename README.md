@@ -11,3 +11,4 @@
 + lab5 : Linear regression
 + lab6 : Tokenization
 + lab7 : Word embeedding
++ lab8 : Naive Bayes classifier
