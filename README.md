@@ -12,3 +12,4 @@
 + lab6 : Tokenization
 + lab7 : Word embeedding
 + lab8 : Naive Bayes classifier
++ lab9 : Regularization, Neural Network
