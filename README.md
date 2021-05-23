@@ -19,6 +19,7 @@
 
 + __ML__ : Machine Learning ( Pytorch )
   - Assignment1 : Write Gradient Descent & Stochasticc Gradient Descent code.
+  - Torch_learn : My pytorch examples
 
 <hr/>
 
