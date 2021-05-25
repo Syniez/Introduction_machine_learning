@@ -14,6 +14,7 @@
   - lab7 : Word embeedding
   - lab8 : Naive Bayes classifier
   - lab9 : Regularization, Neural Network
+  - lab10 : MLP classifier (scikit-learn)
 
 <hr/>
 
