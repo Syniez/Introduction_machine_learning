@@ -19,8 +19,9 @@
 <hr/>
 
 + __ML__ : Machine Learning ( Pytorch )
-  - Assignment1 : Write Gradient Descent & Stochasticc Gradient Descent code.
   - Torch_learn : My pytorch examples
+  - Assignment1 : Write Gradient Descent & Stochasticc Gradient Descent code.
+  - Assignment2 : Build LeNet-5 model and apply in Mnist
 
 <hr/>
 
